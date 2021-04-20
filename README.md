@@ -80,7 +80,7 @@ This sample illustrates how to change the width of the vertical scrollbar in WPF
 
 ```
 
-![SfTreeView vertical scrollbar width](SfTreeView_VerticalScrollBar_Widh)
+![SfTreeView vertical scrollbar width](SfTreeView_VerticalScrollBar_Widh.png)
 
 ## Requirements to run the demo
 
